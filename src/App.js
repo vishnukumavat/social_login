@@ -5,8 +5,8 @@ import StyledFirebaseAuth from "react-firebaseui/StyledFirebaseAuth";
 import DashBoard from "./components/dashboard.component";
 
 firebase.initializeApp({
-  apiKey: "<FireBase API Key>",
-  authDomain: "<authentication domain from firebase>",
+  apiKey: "AIzaSyDTbcQmvTy2NUQj0KCfbHe_GY5ZeddTIts",
+  authDomain: "socionityassignent.firebaseapp.com",
 });
 
 class App extends Component {
