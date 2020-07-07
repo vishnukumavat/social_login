@@ -62,12 +62,14 @@ Open the terminal in the directory where the project is stored.
 Type the command `npm start`.
 ![alt text](https://i.ibb.co/gtdm72Z/image.png) <br>
 <div>&emsp;</div>
+
 If every thing goes well ,new tab will start in the browser with the project running on local server.
+
+ ![alt text](https://i.ibb.co/CmjLTD3/image.png)
+ 
 <div>&emsp;</div>
-![alt text](https://i.ibb.co/CmjLTD3/image.png)
 
-
-**Dependencies(packages) and references used**
+### Dependencies(packages) and references used
 1) bootstrap 4 (https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 2) react-firebaseui (https://www.npmjs.com/package/react-firebaseui)
 3) firebase (https://www.npmjs.com/package/firebase)
