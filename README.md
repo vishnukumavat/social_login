@@ -46,6 +46,7 @@ copy this key and note it somewhere so that it can be referenced whenever needed
 Clone this repository 'social_login' on your local system.<br>
 open the terminal in the directory in which this repository is cloned.<br>
 Run command `npm install` this will install all the required dependencies listed in *package.json*
+![alt text](https://i.ibb.co/yWw8VMN/image.png)
 
 <div>&emsp;</div>
 <br>
@@ -62,9 +63,14 @@ Type the command `npm start`.
 ![alt text](https://i.ibb.co/gtdm72Z/image.png) <br>
 <div>&emsp;</div>
 If every thing goes well ,new tab will start in the browser with the project running on local server.
+<div>&emsp;</div>
+![alt text](https://i.ibb.co/CmjLTD3/image.png)
 
 
-
+**Dependencies(packages) and references used**
+1) bootstrap 4 (https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+2) react-firebaseui (https://www.npmjs.com/package/react-firebaseui)
+3) firebase (https://www.npmjs.com/package/firebase)
 
 
 
